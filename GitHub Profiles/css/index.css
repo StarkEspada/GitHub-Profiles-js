@@ -1,0 +1,127 @@
+body{
+	margin: 0;
+}
+a{
+  text-decoration: none;
+}
+.container-search-profile{
+	width: 1000px;
+	border: 2px solid black;
+	margin: auto;
+	margin-top: 100px;
+	padding-bottom: 100px;
+}
+.box-searc{
+	width: 900px;
+	height: 100px;
+	border: 2px solid black;
+	margin-top: 100px;
+	margin-left: 50px;
+}
+.input-search-user{
+	width: 700px;
+	height: 50px;
+	margin-left: 50px;
+	display: inline-block;
+	margin-top: 20px;
+	font-size: 30px;
+}
+.search{
+	width: 100px;
+	height: 55px;
+	display: inline-block;
+	text-align: center;
+	font-size: 20px;
+	vertical-align: top;
+	margin-top: 20px;
+}
+.result-search{
+	width: 900px;
+	border: 2px solid black;
+	margin-left: 50px;
+	margin-top: 100px;
+}
+.avatar{
+	width: 150px;
+    height: 150px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 16px;
+    border-radius: 75px;
+    margin-left: 145px;
+}
+.name-box{
+    width: 160px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 20px;
+    margin-top: 45px;
+    margin-left: 35px;
+    text-align: center;
+}
+.followers-number-box{
+	width: 100px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 20px;
+    margin-top: 23px;
+    margin-left: 35px;
+    text-align: center;
+}
+.repositories-box{
+	width: 100px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 20px;
+    margin-top: 23px;
+    margin-left: 35px;
+    text-align: center;
+}
+.repositories-box-number{
+	width: 90px;
+    font-size: 45px;
+    margin-top: 10px;
+}
+.name-user{
+    width: 160px;
+    font-size: 35px;
+    margin-top: 10px;
+    text-align: center;
+}
+.followers-number{
+	width: 90px;
+    font-size: 45px;
+    margin-top: 10px;
+}
+.test{
+	width: 100px;
+	height: 100px;
+	border: 2px solid black;
+	display: inline-block;
+}
+.result-repositories{
+	width: 900px;
+	border: 2px solid black;
+	margin-left: 50px;
+	margin-top: 100px;
+	padding-bottom: 10px; 
+}
+.box-repositories{
+	width: 800px;
+    height: 29px;
+    margin-top: 20px;
+    margin-left: 50px;
+    font-size: 30px;
+    text-align: center;
+}
+.result-repositories-header{
+    width: 800px;
+    height: 70px;
+    border: 2px solid black;
+    margin-top: 30px;
+    margin-left: 50px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 55px;
+}
+
